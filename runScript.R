@@ -18,7 +18,6 @@
           
 ###Set up the worksapce to the source code folder
 #setwd(".../BoxModel_R_20200520")
-setwd("/Users/zzhang88/Research/Github/BoxModel_R_20200520")
 
 ##Load source code
 library(foreach)
