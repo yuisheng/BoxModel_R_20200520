@@ -1,12 +1,14 @@
 # BoxModel_R_20200520
-The two-box atmospheric model from Zhang et al. (2020)
+The two-box atmospheric model from Zhang et al. (2021)
 
 Zhen Zhang
 May 20, 2020
 
+Update on Feb 20. 2021:
+- includes the idealized wetland emission scenarios that reproduce the depletion of atmospheric 13C-CH4.
 
 # Info
- * The corresponding paper is Zhang et al., (2020): "Domintant contribution of anthropogenic emissions to the rise of atmospheric methane".
+ * The corresponding paper is Zhang et al., (2021): "Domintant contribution of anthropogenic emissions to the rise of atmospheric methane".
  * This box model code is a rewrite of Matlab code from Turner et al., 2017: https://doi.org/10.1073/pnas.1616020114.
  * An example of running the box model can be found in the "runScript.R" file. The script also contains code for ploting results as shown in 'plots/' folder 
  * The bottom-up estimates use publicly available datasets (details can be found in the Data Availability of the paper). As such, we have not included those datasets in the repository.
